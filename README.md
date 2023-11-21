@@ -16,7 +16,7 @@
 명령실행하기: **.git** 폴더가 생성된다
 
 ## 원격 Repository 와 로컬 Repository 연결하기 
--git remote add origin https://github.com/WHM0304/Biz-2024-11-First.git
+- git remote add origin https://github.com/WHM0304/Biz-2024-11-First.git
 
 
 ## 원격 Repository 에 push 하기
